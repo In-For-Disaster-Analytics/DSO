@@ -1,6 +1,6 @@
 ---
 template: home.html
-title: REDI Solutions
+title: DSO
 ---
 
-REDI Soutions at TACC
+Decision Support Office at TACC
